@@ -8,7 +8,7 @@ I am a graduate with a degree in Management and have experience working internat
 
 I went into data analysis because I am naturally a curious person who loves to solve problems so the prospect of going through data, providing insights and making decisions based on that excites me, plus working with data means that I am not restricted to one industry. 
 
-I completed a 12-week intensive Data Technician Bootcamp with Just IT to equip me with the necessary sort after skills like Excel, Python, SQL, R and Azure to prepare me for a career in Data Analysis. 
+I have completed a 12-week intensive Data Technician Bootcamp with Just IT to equip me with the necessary sort after skills like Excel, Python, SQL, R and Azure to prepare me for a career in Data Analysis. 
 I am passionate about story telling and drawing actionable insights from data and therefore seek a career in Data Analysis with the goal to apply all the skills I have acquired in my training and to hone my technical skills in a professional and challenging environment.
 
 * 🌍  I'm based in Nottingham
